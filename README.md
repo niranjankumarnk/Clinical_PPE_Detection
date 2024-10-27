@@ -8,7 +8,7 @@ This project was developed for the **Voxel51 Hackathon** to detect Clinical Pers
 - [Model](#model)
 - [Setup](#setup)
 - [Training](#training)
-- [Results](#results)
+- [Results](#result)
 - [Tested Results](#Tested_Result)
 
 
