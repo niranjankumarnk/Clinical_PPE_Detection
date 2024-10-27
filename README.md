@@ -9,8 +9,8 @@ This project was developed for the **Voxel51 Hackathon** to detect Clinical Pers
 - [Setup](#setup)
 - [Training](#training)
 - [Results](#results)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
+- [Tested Results](#Tested Result)
+
 
 ## Dataset
 
@@ -21,6 +21,7 @@ This project was developed for the **Voxel51 Hackathon** to detect Clinical Pers
 - **Bounding Box Annotations**: Provided in COCO format, with mean Average Precision (mAP) as the primary evaluation metric.
 
 ### Data Source
+(https://huggingface.co/datasets/rishitdagli/cppe-5)
  Data s loaded from Hugging face Dataset. CPPE-5 aims to improve safety and compliance in medical environments by providing an effective solution for identifying PPE usage.
 
 ## Features
@@ -40,11 +41,11 @@ We utilized the **YOLOv8** and **YOLOv11** models, renowned for real-time object
 
 ### Tools Used
 - **YOLOv8 and YOLOv11**: State-of-the-art models for object detection.
-- **Voxel51**: Utilized for dataset preparation, visualization, and evaluation.
+- 
+## result
 
-## Setup
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/clinical-ppe-detection.git
-   cd clinical-ppe-detection
+
+## Tested Result
+
+
