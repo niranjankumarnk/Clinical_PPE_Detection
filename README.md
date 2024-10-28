@@ -8,8 +8,6 @@ This project was developed for the **Voxel51 Hackathon** to detect Clinical Pers
 - [Model](#model)
 - [Setup](#setup)
 - [Training](#training)
-- [Results](#result)
-- [Tested Results](#Tested_Result)
 
 
 ## Dataset
@@ -41,11 +39,6 @@ We utilized the **YOLOv8** and **YOLOv11** models, renowned for real-time object
 
 ### Tools Used
 - **YOLOv8 and YOLOv11**: State-of-the-art models for object detection.
-- 
-## result
-
-
-
-## Tested Result
+  
 
 
