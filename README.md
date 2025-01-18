@@ -9,7 +9,8 @@ This project was developed for the **Voxel51 Hackathon** to detect Clinical Pers
 - [Setup](#setup)
 - [Training](#training)
 
-
+## DEMO LINK
+(https://www.youtube.com/watch?v=m9Lt-riyEK4&t=25s) RESULT DEMO
 ## Dataset
 
 **[CPPE-5 (Medical Personal Protective Equipment)](https://paperswithcode.com/sota/object-detection-on-cppe-5)** is a new dataset created to enable the study of specific categorization of medical PPE. CPPE-5 consists of 1,029 high-quality, real-life images, allowing for easy deployment to real-world environments. Each image is annotated with ~4.6 bounding boxes on average.
